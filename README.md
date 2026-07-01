@@ -21,12 +21,15 @@ Es importante señalar que el resultado final no corresponde a una generación a
 - **JavaScript (ES6)** – Lógica de negocio e interactividad de la aplicación.
 - **PyCharm** – Entorno de desarrollo utilizado para la implementación, edición y depuración del proyecto.
 - **Claude AI** – Herramienta de apoyo utilizada durante la fase inicial del desarrollo y para consultas técnicas puntuales.
+- **Render** – Plataforma de despliegue y alojamiento (hosting) utilizada para publicar el MVP y permitir su acceso en línea.
 
 ## Proceso de implementación
 
 El desarrollo del MVP se realizó mediante un proceso continuo de mejora, en el cual se implementaron nuevas funcionalidades, se refactorizó parte del código inicial y se optimizó la interfaz de usuario para ofrecer una experiencia más intuitiva.
 
 Cada componente fue revisado y ajustado manualmente hasta obtener una aplicación funcional que representara adecuadamente la propuesta de valor de FORJA.
+
+Una vez finalizada la etapa de desarrollo y realizadas las pruebas correspondientes, la aplicación fue desplegada en **Render**, plataforma utilizada para alojar el proyecto y permitir su acceso a través de Internet. Este despliegue permitió verificar el funcionamiento del MVP en un entorno de producción, validar la estabilidad de la aplicación y facilitar su demostración durante la presentación del proyecto.
 
 ## Consideraciones éticas
 
